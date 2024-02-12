@@ -1,0 +1,180 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 9,
+    "passes": 9,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-02-12T09:25:05.734Z",
+    "end": "2024-02-12T09:25:05.741Z",
+    "duration": 7
+  },
+  "tests": [
+    {
+      "title": "contains a <form>",
+      "fullTitle": "index.html the body contains a <form>",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a 'text' type <input> tag with an id of 'fullname' and placeholder equal to 'Enter Name'",
+      "fullTitle": "index.html the form contains a 'text' type <input> tag with an id of 'fullname' and placeholder equal to 'Enter Name'",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains an 'email' type <input> tag with an id of 'email' and placeholder equal to 'Enter Email'",
+      "fullTitle": "index.html the form contains an 'email' type <input> tag with an id of 'email' and placeholder equal to 'Enter Email'",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "includes the 'required' attribute on the 'fullname' and 'email' input tags",
+      "fullTitle": "index.html the form includes the 'required' attribute on the 'fullname' and 'email' input tags",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a 'tel' type <input> tag with an id of 'phone' and placeholder equal to 'Enter Telephone (optional)'",
+      "fullTitle": "index.html the form contains a 'tel' type <input> tag with an id of 'phone' and placeholder equal to 'Enter Telephone (optional)'",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains <label> tags for the fullname, email, phone and message form inputs",
+      "fullTitle": "index.html the form contains <label> tags for the fullname, email, phone and message form inputs",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <textarea> tag with an id of 'message' and placeholder equal to 'Enter Message'",
+      "fullTitle": "index.html the form contains a <textarea> tag with an id of 'message' and placeholder equal to 'Enter Message'",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a checkbox",
+      "fullTitle": "index.html the form contains a checkbox",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a submit type input",
+      "fullTitle": "index.html the form contains a submit type input",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "contains a <form>",
+      "fullTitle": "index.html the body contains a <form>",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a 'text' type <input> tag with an id of 'fullname' and placeholder equal to 'Enter Name'",
+      "fullTitle": "index.html the form contains a 'text' type <input> tag with an id of 'fullname' and placeholder equal to 'Enter Name'",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains an 'email' type <input> tag with an id of 'email' and placeholder equal to 'Enter Email'",
+      "fullTitle": "index.html the form contains an 'email' type <input> tag with an id of 'email' and placeholder equal to 'Enter Email'",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "includes the 'required' attribute on the 'fullname' and 'email' input tags",
+      "fullTitle": "index.html the form includes the 'required' attribute on the 'fullname' and 'email' input tags",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a 'tel' type <input> tag with an id of 'phone' and placeholder equal to 'Enter Telephone (optional)'",
+      "fullTitle": "index.html the form contains a 'tel' type <input> tag with an id of 'phone' and placeholder equal to 'Enter Telephone (optional)'",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains <label> tags for the fullname, email, phone and message form inputs",
+      "fullTitle": "index.html the form contains <label> tags for the fullname, email, phone and message form inputs",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <textarea> tag with an id of 'message' and placeholder equal to 'Enter Message'",
+      "fullTitle": "index.html the form contains a <textarea> tag with an id of 'message' and placeholder equal to 'Enter Message'",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a checkbox",
+      "fullTitle": "index.html the form contains a checkbox",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a submit type input",
+      "fullTitle": "index.html the form contains a submit type input",
+      "file": "/Users/danielwaghorne/Desktop/Academy Xi/Code/se-prep/Phase-1/phase-1-html-forms-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
